@@ -1,3 +1,3 @@
 # first-repo
 Creating
-Change the file README in Repo
+Change the File README in Repo
